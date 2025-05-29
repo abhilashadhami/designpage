@@ -1,0 +1,43 @@
+.main{
+ 
+  display: inline-flex;
+  flex-direction: column;
+}
+.container {
+  display: flex;
+}
+
+.logo{
+  align-self: start;
+  height: 100px;
+  width: 500px;
+}
+
+h1{
+  font-size: 9rem;
+  margin-top: 10px;
+}
+.left{
+  width: 50%;
+}
+.right{
+  width: 50%;
+}
+h2{
+  margin-bottom: 2px;
+}
+p{
+  font-size: 1.7rem;
+}
+img{
+  float: left;
+  width: 250px;
+  height: 250px;
+  margin-right: 20px;
+}
+footer{
+  text-align: right;
+  font-size: 3rem;
+  font-weight: bolder;
+
+}
